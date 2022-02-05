@@ -6,7 +6,7 @@ numerique==1.19.2
 oreiller==8.0.1
 complot==4.14.1
 scikit-learn==0.23.2
-prediction paresseuse==0.2.7
+prediction-paresseuse==0.2.7
 marin==0.11.1
 matplotlib==3.3.3
 xgboost==1.1.1
